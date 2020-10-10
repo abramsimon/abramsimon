@@ -9,6 +9,9 @@
 
 ## Leadership
 
+[You weren't meant to have a boss](http://paulgraham.com/boss.html)
+Technology tends to separate normal from natural. Our bodies weren't designed to eat the foods that people in rich countries eat, or to get so little exercise. There may be a similar problem with the way we work: a normal job may be as bad for us intellectually as white flour or sugar is for us physically.
+
 [Struggling to Thrive as a Large Team Working Remotely? This Exec Has the Field Guide You Need](https://firstround.com/review/struggling-to-thrive-as-a-large-team-working-remotely-this-exec-has-the-field-guide-you-need/)
 
 [A Voight-Kampff Test for Identifying Engineering Managers](https://medium.com/hackernoon/a-voight-kampff-test-for-identifying-engineering-managers-bb8512c70857)
