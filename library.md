@@ -26,6 +26,10 @@
 
 [Virtual Escape Rooms](https://theescapegame.com/remote-adventures/)
 
+## Code
+
+[Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+
 ## UX
 
 [The UX of LEGO Interface Panels](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
