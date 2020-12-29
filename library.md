@@ -37,3 +37,7 @@
 ## Tools
 
 [Pandoc - convert any document format to any other](https://pandoc.org/index.html)
+
+## History
+
+[Anecdotes about the development of Apple's original Macintosh, and the people who made it](http://www.folklore.org/)
